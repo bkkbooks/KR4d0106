@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4d0106/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部三
+  hash: sha256:f07461303fab15c789ad7c1df69e91ba77e3a1645c0ea5d385f94292466f69db
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0106_WYG_000-1a, image: WYG1119/WYG1119-0001a.png}
+body:
+  text: 樂圃餘藁目録别集類二宋巻一古詩巻二排律律詩巻三律詩巻四律詩巻五絶句輓詩巻六記巻七序題辭巻八啟律賦巻九世譜書題跋祭文銘巻十墓誌臣等謹按樂圃餘藁十巻宋朱長文撰長文字伯原蘇州呉縣人未冠登進士乙科以足疾不仕築室樂圃坊著書閲古蘇軾等薦起本州教授召為太常博士遷秘書省正字生平著述甚富所撰詩詞賦辨表章雜説凡百巻號樂圃集南渡後盡燬於兵其従孫知漢陽軍思裒集遺文得詩百六十有三記五序六啟七墓誌五襍文六類為十巻又以墓銘表傳等為附録一巻鋟諸木嵗乆僅存寫本康熈壬辰其裔孫岳夀重刋行之附補遺詩一贊一則明嘉定陸嘉穎所蒐補也稿中墓銘或署其父公綽名銜盖長文少作従石刻中録出者亦可見思當時搜討之勤矣乾隆四十一年十月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:37a116b5ebd57414812769e9bf44f37efd28cd75c089295c56f1f1351b0503fe
+metadata:
+  title: 樂圃餘藁
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:54:36.392273'
+  juan_title: 目録
+  source:
+    repository: kanripo
+    path: KR4d0106/KR4d0106_000.txt
+hash: sha256:f51f41859e26fae7b826bc07ecdc3b6c837755a464927f5da9635666ff0511ca

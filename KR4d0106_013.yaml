@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4d0106/krp/v1/juan/13
+seq: 13
+front:
+  text: 樂圃餘藁跋二十二世祖樂圃先生平生所著詩文百卷兵燹之後盡為灰燼其傳于世者僅有吳郡圗經琴史墨池編數種而已嶽壽家舊有寫本餘藁十卷附編一卷係先生姪孫令達公裒次蓋其時已非全豹今則并其板亦不存矣嗟乎士君子讀書立言以期不朽班固藝文序云自漢以前文章家不下二萬人皆不傳夫傳之不傳天也後之人知其名不賭其文未嘗不欷歔嘆息況親為之苗裔乎嶽壽不克承家學敢祕諸篋衍而負先世制作之心乎用是忘其僭陋重加校讎付諸剞劂使好古之士讀之有以景前哲而貽後學有餘幸焉至于先生之行誼與文之典麗詩之淵雅前代巨公述之詳矣余小子更何容贊一辭康熙壬辰中秋二十二世孫嶽壽拜書
+  hash: sha256:1a7806ff20593fda728d9bfc705e79c8e3057d133b771fec59cd4ad506c8a5a8
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0106_WYG_013-1a, image: WYG1119/WYG1119-0061c.png}
+body:
+  text: 樂圃餘藁跋
+  hash: sha256:8ba55eb727f02b3d213b6f45656399a6aac0ba2003d28c6e6dcf5fe107a29de3
+metadata:
+  title: 樂圃餘藁
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:54:36.392273'
+  juan_title: 跋
+  source:
+    repository: kanripo
+    path: KR4d0106/KR4d0106_013.txt
+hash: sha256:8615241f13e8a311e2f526dcf787e0265ccaacea03892cb89c4f41d5a3ca0984
